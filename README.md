@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I am Ankit Tiwari
 **Data Science Enthusiast | Exploring ML & CV**
 
-Email Me 👉 ✉️ **ankit08012005@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **ankit08012005@gmail.com** For Collaboration/Projects. 😊😊
 
 - 🔭 **I’m currently working on:** Git Checkout
 - 🌱 **I’m currently learning:** OpenCV
